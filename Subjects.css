@@ -1,0 +1,49 @@
+.Subjects {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .search-section {
+    margin-bottom: 20px;
+  }
+  
+  .search-section input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .results {
+    margin-top: 20px;
+  }
+  
+  .category {
+    margin-bottom: 20px;
+  }
+  
+  .category h2 {
+    color: #007bff;
+  }
+  
+  .category ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .category li {
+    background: #f9f9f9;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
